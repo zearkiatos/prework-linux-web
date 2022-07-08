@@ -11,3 +11,6 @@
 `mv <name of the file> <name of the folder>/`
 `rm <name of the file>`
 `rm -r <name of the folder>`
+`sudo apt install <software name>`
+`sudo apt remove <software name>`
+`curl -o- <package url> | bash`
