@@ -1,6 +1,9 @@
 # Description
 This is a base project for test configuration prework for operative system linux 🐧 🖥️🪟💻⚙️
 
+![Github](https://github.com/zearkiatos/prework-linux-web/actions/workflows/action.yml/badge.svg)
+
 # Make with
 
-[![HTML5](https://img.shields.io/badge/HTML5-e56034?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)]()
+[![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
+[![JavaScript](https://img.shields.io/badge/javascript-ead547?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)]()
