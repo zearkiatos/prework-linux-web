@@ -2,6 +2,7 @@
 This is a base project for test configuration prework for operative system linux 🐧 🖥️🪟💻⚙️
 
 ![Github](https://github.com/zearkiatos/prework-linux-web/actions/workflows/action.yml/badge.svg)
+![GitlabCI](https://gitlab.com/caprilespe/prework-linux-web/badges/develop/pipeline.svg)
 
 # Make with
 
