@@ -17,3 +17,5 @@ Github: [https://zearkiatos.github.io/prework-linux-web/](https://zearkiatos.git
 Gitlab 🦊: [https://caprilespe.gitlab.io/prework-linux-web/](https://caprilespe.gitlab.io/prework-linux-web/)
 
 Vercel: [https://prework-linux-web.vercel.app/](https://prework-linux-web.vercel.app/)
+
+Netlify: [https://prework-linux-web.netlify.app/](https://prework-linux-web.netlify.app/)
