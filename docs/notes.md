@@ -14,3 +14,4 @@
 `sudo apt install <software name>`
 `sudo apt remove <software name>`
 `curl -o- <package url> | bash`
+`xclip -selection clipboard <file path>` => safe copy
